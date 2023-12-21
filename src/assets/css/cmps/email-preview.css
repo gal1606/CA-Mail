@@ -1,0 +1,28 @@
+.email-preview{
+    display: flex;
+    border-bottom-style: solid;
+    border-color: rgb(39, 37, 37);
+    padding: 3px;
+    justify-content: space-around;
+    width: 80%;
+    cursor: pointer;
+}
+
+.email-preview:hover{
+    background-color: rgb(206, 202, 202);
+    color:rgb(30, 30, 233);
+}
+
+.email-preview img{
+    width: 1rem;
+}
+
+.email-read{
+    background-color: rgb(222, 223, 225);
+    color: #302f2f;
+}
+
+.email-unRead{
+    background-color: initial;
+    color: initial
+}

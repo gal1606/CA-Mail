@@ -1,0 +1,19 @@
+.status-list{
+    width: 25 vw;
+}
+
+.status-list img{
+    width: 2rem;
+}
+
+.status-list div{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.email-index > .body{
+    display: flex;
+    justify-content: space-between;
+}
+
